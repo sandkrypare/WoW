@@ -1,9 +1,9 @@
-body {
+.body {
     background-repeat: no-repeat;
 
 }
 
-.h1 {
+.Header {
     text-align: center;
     text-overflow: inherit;
 }
